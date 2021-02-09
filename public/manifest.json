@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Formik Yup Form",
+  "name": "Formik Yup Tutorial",
   "icons": [
     {
       "src": "favicon.ico",
